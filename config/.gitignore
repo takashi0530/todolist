@@ -1,1 +1,3 @@
 database.php
+#testフォルダの中身をすべてignore
+/test/
