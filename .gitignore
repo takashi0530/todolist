@@ -1,2 +1,5 @@
+# testフォルダを無視
 test/
-config/
+
+# configフォルダを無視
+#config/
